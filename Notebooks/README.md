@@ -2,7 +2,7 @@
 
 These notebooks contain demonstration material convering how to access and use the DC1 datasets. 
 To run these notebooks at NERSC, follow the instructions for setting up [Jupyter-dev](https://github.com/LSSTDESC/Monitor/blob/master/doc/jupyter-dev.md). 
-You will need a more modern version (as of 2017-12-04) of a Python3 kernel, which we provide through [lsst_kernel.sh](../scripts/lsst-kernel.sh).
+You will need a more modern version (as of 2017-12-04) of a Python3 kernel, which we provide through [lsst_kernel.sh](./lsst-kernel.sh).
 
 These notebooks include instructions for accessing the DC1 data directly using the Butler and indirectly through HDF5 files extracted from the database and read with [Pandas](https://pandas.pydata.org/).
 
